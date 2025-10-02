@@ -32,6 +32,12 @@ A data table component with sorting and selection functionality.
 ### Prerequisites
 - Node.js (v18 or higher)
 - npm or yarn
+### Screenshots
+<img width="1873" height="876" alt="image" src="https://github.com/user-attachments/assets/dca4b971-6ff0-43ea-8a29-04e518b57f83" />
+<img width="1876" height="841" alt="image" src="https://github.com/user-attachments/assets/c95e34b8-2057-4e32-8798-8d8876fa38a1" />
+<img width="1861" height="838" alt="image" src="https://github.com/user-attachments/assets/2a1cb0a8-f9b7-40c2-9544-8c407a8b70d0" />
+<img width="1885" height="846" alt="image" src="https://github.com/user-attachments/assets/3580d330-9d08-4e81-b014-c8c212462655" />
+
 
 ### Installation
 
